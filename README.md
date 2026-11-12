@@ -2,13 +2,13 @@
 
 An AI-powered Data Analyst Agent that allows users to ask questions about spreadsheet data using natural language and receive data-driven insights.
 
-Project Overview
+## Project Overview
 
 This project demonstrates how Generative AI and workflow automation can simplify data analysis and reporting.
 
 The AI Agent connects to spreadsheet data, understands user questions, retrieves relevant records, generates analytical insights and supports email reporting through Gmail.
 
-Tech Stack
+## Tech Stack
 
 n8n: Workflow automation and AI Agent orchestration
 
@@ -20,7 +20,7 @@ Gmail: Email reporting
 
 Generative AI: Natural-language data analysis
 
-Key Features
+## Key Features
 
 Natural-language interaction with an AI Data Analyst.
 
@@ -34,7 +34,7 @@ Automated email reporting through Gmail.
 
 Interactive chat interface.
 
-Workflow Architecture
+## Workflow Architecture
 
 User submits a question through the chat interface.
 
@@ -46,7 +46,7 @@ The AI Agent analyses the data and generates insights.
 
 Gmail sends the analysis report when requested and configured.
 
-Example Query
+## Example Query
 
 User input:
 
@@ -60,6 +60,6 @@ Observed AI response:
 
 These are results from the sample dataset used during testing.
 
-Live Demo
+## Live Demo
 
 Open AI Data Analyst Agent https://tanvisable.app.n8n.cloud/webhook/c2af4b5b-67c8-4fc1-b774-43757ab5a42e/chat
